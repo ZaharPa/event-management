@@ -55,7 +55,7 @@ To get started with Job-board, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/job-board.git
+    git clone https://github.com/ZaharPa/job-board.git
     cd job-board
     ```
 
