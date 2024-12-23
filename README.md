@@ -87,15 +87,13 @@ To get started with Job-board, follow these steps:
     php artisan serve
     ```
 
-## Usage
-
-- Visit `http://localhost:8000` in your browser to access the application.
-- Register a new account or log in with existing credentials.
-- Employers can create and manage job listings.
-- Job seekers can search for jobs and apply for them.
-
 ## License
 
 Job-board is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## Page Look
+## View Work
+
+![all events](https://github.com/user-attachments/assets/913253a8-7e4d-43a9-8704-5ba3e4242d4b)
+![update event](https://github.com/user-attachments/assets/9d80c4af-b373-4e92-ab34-3eddd6e451ba)
+![delete with error](https://github.com/user-attachments/assets/f0d7fb34-2209-4680-9475-a4b1de38dc95)
+
